@@ -1,1 +1,3 @@
 This is test 2 data code
+
+  git config --global user.email "krishnasiva414@gmail.com"
